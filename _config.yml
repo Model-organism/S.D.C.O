@@ -39,10 +39,10 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: Dantalion_D #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: #
+  email: dantaliond@163.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: #Model-organism/S.D.C.O https://github.com/<>
@@ -79,7 +79,7 @@ url:
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl:
+baseurl:/S.D.C.O
 
 
 #
